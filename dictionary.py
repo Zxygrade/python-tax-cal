@@ -1,7 +1,9 @@
-acronyms ={'LOL':'Laugh out loud'}
+acronyms ={'LOL':'Laugh out loud',
+           'TBH':'to be honest'}
+
 
 print(acronyms)
-acronyms['TBH'] = 'to be honest'
+
 
 acronyms['IDK'] = 'I dont know'
 
